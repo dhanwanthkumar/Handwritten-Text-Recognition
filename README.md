@@ -1,2 +1,5 @@
-# Handwritten-Text-Recognition
-The Handwritten Text Recognition (HTR) project is an innovative application that employs Python programming to automate the process of converting handwritten text from images into digital, machine-readable text.
+# Handwritten-Digit-Recognition 
+this file contains several modules for testing purpose.
+
+## Step-by-step Method
+run the modules in order to verify the project
